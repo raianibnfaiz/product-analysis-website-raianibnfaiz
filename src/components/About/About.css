@@ -6,3 +6,9 @@ h4 {
     letter-spacing: 5px;
     line-height: 50px;
 }
+
+.description p {
+    font-family: 'Secular One', sans-serif;
+    font-size: 25px;
+    letter-spacing: 5px;
+}

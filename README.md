@@ -1,4 +1,4 @@
-#Repository Link
-## https://github.com/programming-hero-web-course-4/product-analysis-website-raianibnfaiz
-###Live Website Link(..)
-####Project Short Description: In this project , a website of boots shop has been built.There is review page where customer's reviews has been showed. There is blog section where 3 important topics is discussed. There is about section where some information of the shop has been displayed. On the homepage three customer reviews are showed and on the bottom of the homepage there is show all review button which will take the user to the review section page if any user click that button.   
+# product-analysis-website-raianibnfaiz
+## Repository Link: https://github.com/programming-hero-web-course-4/product-analysis-website-raianibnfaiz
+### Live Website Link: https://product-analysis-website-raianibnfaiz.netlify.app/
+#### Project Short Description: In this project , a website of boots shop has been built.There is review page where customer's reviews has been showed. There is blog section where 3 important topics is discussed. There is about section where some information of the shop has been displayed. On the homepage three customer reviews are showed and on the bottom of the homepage there is show all review button which will take the user to the review section page if any user click that button. For CSS framework Tailwind is used in this project.   
