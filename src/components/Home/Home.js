@@ -17,7 +17,7 @@ const Home = () => {
                     <img className='ml-1' src="https://images.unsplash.com/photo-1520639888713-7851133b1ed0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ym9vdHN8ZW58MHx8MHx8&w=1000&q=80" alt="img" />
                 </div>
             </div>
-            <h3 className='text-gray-600 bold'>Total Review: <span className='text-blue-400'>{review.length}</span></h3>
+            <h3 className='text-gray-600 bold'>Overall Customer Review: <span className='text-blue-400'>{review.length}</span></h3>
             <FirstThreeReview></FirstThreeReview>
             <div className="review-button mb-6">
                 <Link to='/review' element={<Reviews></Reviews>}>
