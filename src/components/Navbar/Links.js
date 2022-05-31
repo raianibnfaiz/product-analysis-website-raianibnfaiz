@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom';
 const Links = (props) => {
     const { link, name } = props.link;
     return (
-        <div className='text-black'>
-            <li className="imp mr-16 text-xl hover:underline text-black"><Link to={link}>{name}</Link></li>
+        <div>
+            <li className=" mr-16 text-xl  "><Link to={link}>{name}</Link></li>
         </div>
     );
 };

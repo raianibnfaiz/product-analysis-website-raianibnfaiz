@@ -4,41 +4,47 @@
         "comment": "The products are amazing. I recommend all to buy from this store",
         "picture": "",
         "name": "Jack Bauer",
-        "gender": "Male"
+        "gender": "Male",
+        "rating": "4/5"
     },
     {
         "id": "2",
         "comment": "All products are really good. You should buy some products from this store",
         "picture": "",
         "name": "Hashmi Hasan",
-        "gender": "Male"
+        "gender": "Male",
+        "rating": "5/5"
     },
     {
         "id": "3",
         "comment": "The products are super. I bought plenty of items from this store",
         "picture": "",
         "name": "Eric Halland ",
-        "gender": "Male"
+        "gender": "Male",
+        "rating": "4/5"
     },
     {
         "id": "4",
         "comment": "The products are amazing. I am satisfied",
         "picture": "",
         "name": "Will Hammer",
-        "gender": "Male"
+        "gender": "Male",
+        "rating": "5/5"
     },
     {
         "id": "5",
         "comment": "The products are fantastic. You can buy from this store",
         "picture": "",
         "name": "Miles Nick",
-        "gender": "Male"
+        "gender": "Male",
+        "rating": "4.5/5"
     },
     {
         "id": "6",
-        "comment": "The products are amazing. I recommend all to buy from this store",
+        "comment": "The boots are amazing. You must!! buy from this store",
         "picture": "",
         "name": "Mason Wood",
-        "gender": "Male"
+        "gender": "Male",
+        "rating": "4/5"
     }
 ]
