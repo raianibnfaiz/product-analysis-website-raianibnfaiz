@@ -12,7 +12,7 @@ const Navbar = () => {
         { id: 4, name: "About", link: "/about" }
     ]
     return (
-        <div >
+        <div className="p-3 bg-slate-100">
             <div onClick={() => setOpen(!open)}>
                 {open ? <XIcon className="h-6 w-6 md:hidden"></XIcon> : <MenuIcon className="h-6 w-6 md:hidden "></MenuIcon>}
 
