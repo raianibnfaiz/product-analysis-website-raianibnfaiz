@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "comment": "The products are amazing. I recommend all to buy from this store",
+        "picture": "",
+        "name": "Jack Bauer",
+        "gender": "Male"
+    },
+    {
+        "id": "2",
+        "comment": "All products are really good. You should buy some products from this store",
+        "picture": "",
+        "name": "Hashmi Hasan",
+        "gender": "Male"
+    },
+    {
+        "id": "3",
+        "comment": "The products are super. I bought plenty of items from this store",
+        "picture": "",
+        "name": "Eric Halland ",
+        "gender": "Male"
+    },
+    {
+        "id": "4",
+        "comment": "The products are amazing. I am satisfied",
+        "picture": "",
+        "name": "Will Hammer",
+        "gender": "Male"
+    },
+    {
+        "id": "5",
+        "comment": "The products are fantastic. You can buy from this store",
+        "picture": "",
+        "name": "Miles Nick",
+        "gender": "Male"
+    },
+    {
+        "id": "6",
+        "comment": "The products are amazing. I recommend all to buy from this store",
+        "picture": "",
+        "name": "Mason Wood",
+        "gender": "Male"
+    }
+]
